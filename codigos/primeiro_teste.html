@@ -1,11 +1,31 @@
 <meta charset="UTF-8">
 
-<h1>Meu primeiro teste!</h1>
-<br>
-Seria isso um programa? Descubra visitando o Alura <a href="http://www.alura.com.br">aqui</a>!
-
 <script>
 
-	alert("Isso sim é um programa");
+function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(resultado){
+        document.write("Nossa diferença de idade é " + resultado);
+        pulaLinha();
+    }
+
+valor1 = 10;
+valor2 = valor1 / 3;
+valor3 = valor2 * 3;
+valor1 = valor1 % 2 + 5; //% = resto de divisão
+valor1 = valor1 / 2;
+
+if(valor1 != 2){
+valor1 = 2;
+valor2 = valor2 * valor2;
+}else {
+valor1 = valor1-1;
+}
+
+mostra(valor1);
+mostra(valor2);
+mostra(valor3);
 
 </script>
