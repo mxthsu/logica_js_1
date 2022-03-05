@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br><br>");
@@ -34,8 +31,7 @@
 	if (imc >= 18.5 && imc <= 35 ) {
 		mostra("Seu imc está excelente");
 	}	
-				   
-</script>
+
 
 
 

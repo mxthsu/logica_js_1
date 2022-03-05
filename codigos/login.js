@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     var loginCadastrado = "alura";
     var senhaCadastrada = "alura321";
@@ -31,5 +28,3 @@
        // vai para a próxima tentativa
         tentativaAtual = tentativaAtual +1  
     }
-
-</script>

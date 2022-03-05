@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<body>
-
-<h2>Estrelas</h2>
-
-<p id="demo"></p>
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br>");
@@ -24,10 +14,6 @@
         }
         pulaLinha();
     }
-
-</script>
-</body>
-</html>
 
 
 

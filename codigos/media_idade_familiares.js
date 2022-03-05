@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<body>
-
-<h2>Media de idade dos familiares:</h2>
-
-<p id="demo"></p>
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br><br>");
@@ -32,10 +22,6 @@
 
     mostra("A média de idade da família é: " + media);
     mostra("Fim!");
-  
-</script>
-</body>
-</html>
 
 
 
