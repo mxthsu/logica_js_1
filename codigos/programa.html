@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br><br>");
@@ -32,8 +29,6 @@
 	var nome = "Flávio";
 	
 	mostra("A idade de " + nome + " é " + idadeFlavio);			   
-				   
-</script>
 
 
 

@@ -1,6 +1,3 @@
-<meta charset="UTF8">
-
-<script>
 
     function pulaLinha() {
         document.write("<br>");
@@ -17,5 +14,3 @@
     var resultadoIdade = idadeIrmao - idadeEu;
 
     mostra(resultadoIdade);
-    
-</script>

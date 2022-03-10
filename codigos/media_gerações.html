@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 function pulaLinha(){
     document.write("<br>");
@@ -18,6 +15,4 @@ var media = 28;
 var geracoes = (anoAtual - anoInicial) / media;
 
 mostra(geracoes);
-
-</script>
 

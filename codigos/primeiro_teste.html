@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 function pulaLinha() {
         document.write("<br>");
@@ -27,5 +24,3 @@ valor1 = valor1-1;
 mostra(valor1);
 mostra(valor2);
 mostra(valor3);
-
-</script>

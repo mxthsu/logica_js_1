@@ -1,8 +1,4 @@
-<meta charset="UTF-8">
 
-<h1>Receitas do Yan</h1>
-
-<script>
     var ingredientes = [];
 
     var quantidade = parseInt(prompt("Quantos ingredientes você vai adicionar?"));
@@ -32,4 +28,3 @@
     }
 
     console.log(ingredientes);
-</script>

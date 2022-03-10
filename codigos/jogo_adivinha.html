@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<body>
-
-<h2>Jogo de Adivinha</h2>
-
-<p id="demo"></p>
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br><br>");
@@ -43,9 +33,6 @@
         tentativas++;
     }
    
-</script>
-</body>
-</html>
 
 
 

@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<body>
-
-<h1>Tabuada do 7!</h1>
-
-<p id="demo"></p>
-
-<script>
 
 	function pulaLinha() {
 		document.write("<br><br>");
@@ -23,10 +13,6 @@
     }
 
     mostra("Fim!");
-  
-</script>
-</body>
-</html>
 
 
 
